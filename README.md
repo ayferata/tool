@@ -47,6 +47,7 @@ public class Tool implements Runnable{
             for(Integer qi : q4){
                 add(qi);
             }
+                                           
         }
     }
     synchronized void add(int qi){
