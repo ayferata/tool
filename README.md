@@ -55,5 +55,6 @@ public class Tool implements Runnable{
             evens.add(qi);
         }
         else odds.add(qi);
+                                           
     }
 }
